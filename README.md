@@ -37,7 +37,7 @@ This project is part of a multi part video series, so our folders are structured
         <td>Login, Logout, Registration & Protected Routes</td>
         <td><a href="/Part-3/">View</a></td>
     </tr>
-<table/>
+</table>
 
 See tutorial part 1 here: https://youtu.be/_JDeJgsU-bI
 
